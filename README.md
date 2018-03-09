@@ -7,6 +7,7 @@
 
 ## 网络基础知识
 
+[HTTP协议基础](https://www.cnblogs.com/ranyonsue/p/5984001.html)
 
 
 ## 数据库相关知识
