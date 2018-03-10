@@ -1,5 +1,5 @@
 # Learning-Resources
-收集的一些学习资源（Python、网络基础、数据库等相关知识），方便自己查阅，也给他人提供一个学习资源索引。
+收集的一些学习资源（Python、网络基础、数据库等相关知识），方便自己查阅，也给他人提供一个学习资源索引，不定期更新。
 
 ## Python
 [常见Python面试题](https://github.com/taizilongxu/interview_python)
