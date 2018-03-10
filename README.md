@@ -14,6 +14,8 @@
 #### MongoDB
 [MongoDB极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md)
 
+#### MySQL
+[MySQL基础](http://kmfree.me/2017/07/30/4_%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9F%A5%E8%AF%86/MySQL/MySQL%E5%9F%BA%E7%A1%80/)
 
 ## Linux
 [Linux Shell 编程极简入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/Shell%E7%BC%96%E7%A8%8B%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8%E5%AE%9E%E8%B7%B5.md)
