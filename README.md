@@ -4,6 +4,8 @@
 ## Python
 [常见Python面试题](https://github.com/taizilongxu/interview_python)
 
+[problem-solving-with-algorithms-and-data-structure-using-python 中文版](https://github.com/facert/python-data-structure-cn)
+
 ## 网络基础知识
 
 [HTTP协议基础](https://www.cnblogs.com/ranyonsue/p/5984001.html)
